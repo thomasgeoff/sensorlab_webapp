@@ -20,8 +20,6 @@
     "ejs-lint": "^0.3.0",
     "express": "^4.16.3",
     "mongoose": "^5.3.0",
-    "semantic-ui": "^2.4.0",
-    "twilio": "^3.32.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
